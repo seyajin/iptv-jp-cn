@@ -52,78 +52,39 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
 
 #卫视
-#EXTINF:-1 group-title="卫视" tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="beijing" tvg-logo="beijing.png",北京卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236191/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="hainan" tvg-logo="hainan.png",海南卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="hebei" tvg-logo="hebei.png",河北卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="henan" tvg-logo="henan.png",河南卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="jilin" tvg-logo="jilin.png",吉林卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="beijing" tvg-logo="beijing.png",北京卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="kangba" tvg-logo="kangba.png",康巴卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236270/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236209/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236231/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="shandong" tvg-logo="shandong.png",山东卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="shanxi" tvg-logo="shanxi.png",山西卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236264/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="shanxi1" tvg-logo="shanxi1.png",陕西卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236215/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236229/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
 
 #其它
 #EXTINF:-1 group-title="其它" tvg-id="cetv1" tvg-logo="cetv1.png",CETV1
