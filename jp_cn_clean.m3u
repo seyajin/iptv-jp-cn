@@ -107,8 +107,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="ifengnews" tvg-logo="ifengnews.png",凤凰资讯
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="haixia" tvg-logo="haixia.png",海峡卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8
+
 #EXTINF:-1 group-title="其它" tvg-id="gdws" tvg-logo="gdws.png",大湾区卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="classic" tvg-logo="classic.png",重温经典
@@ -133,10 +132,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="sports" tvg-logo="sports.png",哒波赛事
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="military" tvg-logo="military.png",军事评论
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="health" tvg-logo="health.png",怡伴健康
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8
+
+
 #EXTINF:-1 group-title="其它" tvg-id="thriller" tvg-logo="thriller.png",惊悚悬疑
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="agriculture" tvg-logo="agriculture.png",农业致富
@@ -207,8 +204,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="其它" tvg-id="baby" tvg-logo="baby.png",优优宝贝
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="tea" tvg-logo="tea.png",茶频道
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 group-title="其它" tvg-id="car" tvg-logo="car.png",车迷频道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229410/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="其它" tvg-id="zjnews" tvg-logo="zjnews.png",浙江新闻
@@ -251,32 +247,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="hzds" tvg-logo="hzds.png",杭州导视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="jxzh" tvg-logo="jxzh.png",嘉兴新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232990/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="jxgg" tvg-logo="jxgg.png",嘉兴公共
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233019/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="jxys" tvg-logo="jxys.png",嘉兴文化影视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233022/index.m3u8
-#EXTINF:-1 group-title="其它" tvg-id="lsgg" tvg-logo="lsgg.png",丽水公共
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="lsxw" tvg-logo="lsxw.png",丽水新闻
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="hzgg" tvg-logo="hzgg.png",湖州公共
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="hzxw" tvg-logo="hzxw.png",湖州新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="hzwh" tvg-logo="hzwh.png",湖州文化娱乐
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="qzgg" tvg-logo="qzgg.png",衢州公共频道
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="qzxw" tvg-logo="qzxw.png",衢州新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="jhjy" tvg-logo="jhjy.png",金华教育科技
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="jhxw" tvg-logo="jhxw.png",金华新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="jhgg" tvg-logo="jhgg.png",金华公共
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 group-title="其它" tvg-id="nbtv1" tvg-logo="nbtv1.png",NBTV-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="其它" tvg-id="nbtv2" tvg-logo="nbtv2.png",NBTV-2
@@ -285,12 +256,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235612/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="其它" tvg-id="nbtv4" tvg-logo="nbtv4.png",NBTV-4
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="zsxw" tvg-logo="zsxw.png",舟山新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="zsgg" tvg-logo="zsgg.png",舟山公共
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="wzxw" tvg-logo="wzxw.png",温州新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 group-title="其它" tvg-id="blackberryanime" tvg-logo="blackberryanime.png",黑莓动画
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="haha" tvg-logo="haha.png",哈哈炫动
