@@ -10,10 +10,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-id="cctv4" tvg-logo="cctv4.png",CCTV4
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="cctv4eu" tvg-logo="cctv4eu.png",CCTV4欧洲
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="cctv4us" tvg-logo="cctv4us.png",CCTV4美洲
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-id="cctv5" tvg-logo="cctv5.png",CCTV5
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV5+
@@ -42,14 +38,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-id="cctv17" tvg-logo="cctv17.png",CCTV17
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="cgtnes" tvg-logo="cgtnes.png",CGTN西语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="cgtnfr" tvg-logo="cgtnfr.png",CGTN法语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="cgtnru" tvg-logo="cgtnru.png",CGTN俄语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-id="cgtnar" tvg-logo="cgtnar.png",CGTN阿语
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
 
 #卫视
 #EXTINF:-1 group-title="卫视" tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
@@ -64,36 +52,16 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="beijing" tvg-logo="beijing.png",北京卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
 
-#EXTINF:-1 group-title="卫视" tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
-
-#EXTINF:-1 group-title="卫视" tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
-
 #EXTINF:-1 group-title="卫视" tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8
 
-#EXTINF:-1 group-title="卫视" tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236231/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="shandong" tvg-logo="shandong.png",山东卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8
-
 #EXTINF:-1 group-title="卫视" tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8
 
 #其它
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="cctvtennis" tvg-logo="cctvtennis.png",CCTV-高尔夫网球
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其它" tvg-id="cctv4k" tvg-logo="cctv4k.png",CCTV-4K
-
-#EXTINF:-1 group-title="其它" tvg-id="cgtndoc" tvg-logo="cgtndoc.png",CGTN-记录
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="ifengcn" tvg-logo="ifengcn.png",凤凰中文
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 #EXTINF:-1 group-title="其它" tvg-id="ifengnews" tvg-logo="ifengnews.png",凤凰资讯
