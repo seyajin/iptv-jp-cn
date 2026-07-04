@@ -156,21 +156,21 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/1/index.m3u8
 
 #JP new
 EXTM3U
-#EXTINF:-1,gd01
+#EXTINF:-1 group-title="primehome",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
-#EXTINF:-1,gd02
+#EXTINF:-1 group-title="primehome", NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=5
-#EXTINF:-1,gd03
+#EXTINF:-1 group-title="primehome",NTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=5
-#EXTINF:-1,gd04
+#EXTINF:-1 group-title="primehome",TBS 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=5
-#EXTINF:-1,gd05
+#EXTINF:-1 group-title="primehome",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=5
-#EXTINF:-1,gd06
+#EXTINF:-1 group-title="primehome",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=5
-#EXTINF:-1,gd07
+#EXTINF:-1 group-title="primehome",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=5
-#EXTINF:-1,gd08
+#EXTINF:-1 group-title="primehome",TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=5
 
 #JP
