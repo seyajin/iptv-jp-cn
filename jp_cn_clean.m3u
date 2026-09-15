@@ -165,20 +165,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=5
 #EXTM3U
 
 # ========================================================
-# 【 列表信息 】(共 1 个频道)
-# ========================================================
-#EXTINF:-1 tvg-name="2026-09-13 16:39:04" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表信息",2026-09-13 16:39:04
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
-
-# ========================================================
-# 【 4K频道 】(共 2 个频道)
-# ========================================================
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
-
-# ========================================================
 # 【 影星专场 】(共 23 个频道)
 # ========================================================
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/N2I2N2Y4NzUtYjVmZS00YjRmLTlhNDctNjk2Zjc1ZDc0YjRj.jpg?imageview/4/0/w/400/h/500/q/80" group-title="影星专场", 鹿鼎记-周星驰版
